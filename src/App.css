@@ -1,3 +1,7 @@
+body {
+  background-color: darkslategrey;
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +39,17 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.container {
+  height: 200px;
+  text-align: center;
+  margin-top: 22.25%;
+  background-color: darkgrey;
+}
+
+button {
+  width: 50px;
+  height: 50px;
+  font-size: xx-large;
 }

@@ -3,7 +3,7 @@ import './App.css';
 import IncDec from './plusMinus/components';
 function App() {
   return (
-    <IncDec></IncDec>
+    <IncDec count = {40}></IncDec>
   );
 }
 
